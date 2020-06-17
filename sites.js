@@ -99,7 +99,7 @@ let sites = [
         name: "Blain Smith",
         url: 'https://blainsmith.com',
         because: "Text only for life."
-    }
+    },
      {
         name: "Greg McVerry",
         url: 'https://jgregorymcverry.com/mypoetry',
